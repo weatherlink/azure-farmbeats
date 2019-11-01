@@ -12,7 +12,7 @@ WeatherLink now supports sending data to an Azure FarmBeats Installation.
 
 WeatherLink:
 <ul>
-  <li>supports data entry of your Azure FarmBeats credentials information</>
+  <li>supports data entry of your Azure FarmBeats credentials information</li>
   <li>sends telemetry data for your systems to your Azure FarmBeats installation</li>
 </ul>
 
