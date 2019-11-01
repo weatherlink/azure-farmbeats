@@ -1,4 +1,3 @@
-
 ---
 title: Setup
 permalink: /setup
@@ -131,3 +130,4 @@ Therefore, you will see the following graphic anytime you click on the "Azure Fa
 <br><br>
 <img src="./AddInProgress.png" alt="AddInProgress">
 <br><br>
+
