@@ -8,16 +8,16 @@ main:
 
 navMain: 
   - title: Azure FarmBeats Overview
-    url: /
+    url: /index
   - title: Setup
     url: /setup
   - title: TroubleShooting Azure Farmbeats
     children:
       - title: Verifying Data is Flowing
         url: /flowing
-      - title: What to do if Connection Status shows as X?
+      - title: Connection Status shows as X?
         url: /connectionStatusX
-      - title: What should I look for at my FarmBeats installation?
+      - title: Checking the Other Side
         url: /ms
   - title: TroubleShooting EnviroMonitor (EM) Setup
     children:
