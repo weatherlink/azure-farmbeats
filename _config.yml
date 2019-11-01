@@ -1,0 +1,31 @@
+remote_theme: mmistakes/minimal-mistakes@4.16.6
+
+title: Azure FarmBeats
+
+url: "https://weatherlink.github.io"
+baseurl: /azure-farmbeats
+
+search: false
+
+after_footer_scripts:
+  - /assets/vendor/weatherlink/js/footer-copyright.js
+  - /assets/vendor/weatherlink/js/nav-sub-menu.js
+  - https://cdn.jsdelivr.net/npm/lodash@4.17.11/lodash.min.js
+
+include:
+  - _pages
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav: "navMain"
+
+plugins:
+  - jekyll-include-cache
