@@ -9,6 +9,9 @@ main:
 navMain: 
   - title: Azure FarmBeats Overview
     url: /index
+    children:
+      - title: What Data is Sent?
+        url: /dataToBeSent
   - title: Setup
     url: /setup
   - title: TroubleShooting Azure Farmbeats
