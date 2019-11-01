@@ -29,36 +29,36 @@ up your connection, the window will look like this:
   
 Let's go through each of the fields and the selections.
 
-Documentation
+## Documentation
 
 That would be this document that you are currently reading.  
   
 
-Display Name
+## Display Name
 
 This is a free-form field to describe your setup. It could be something
 like "Dave's Farm".  
   
 
-API Endpoint
+## API Endpoint
 
 This is a field that should be provided from your Azure FarmBeats
 account. It is a custom URL for your account.  
   
 
-Tenant Id
+## Tenant Id
 
 This is a field that should be provided from your Azure FarmBeats
 account. This is basically a "group ID".  
   
 
-Client Id
+## Client Id
 
 This is a field that should be provided from your Azure FarmBeats
 account. This is basically your "account Id".  
   
 
-Client Secret
+## Client Secret
 
 This is a field that should be provided from your Azure FarmBeats
 account. This is considered to be the confidential "account password".  
@@ -66,7 +66,7 @@ It is normally shown as asterisks ("\*\*\*"). The eye icon will
 show/hide the actual value.  
   
 
-EventHub aka EventHub Connection String
+## EventHub aka EventHub Connection String
 
 This is a field that should be provided from your Azure FarmBeats
 account.  
@@ -75,7 +75,7 @@ This is a long, string containing several snippets of
 "someName=someValue"-type sections.  
   
 
-Telemetry Start Date
+## Telemetry Start Date
 
 This is the date from which you want Historical Data to be sent. Say you
 are filling out this form on December 1 2019.  
@@ -95,7 +95,7 @@ Under certain situations, this could be 10s of thousands of records
 which could take days to be generated and then sent to Azure
 FarmBeats.
 
-Available EM Stations
+## Available EM Stations
 
 This alerts you to the total number of EM stations that you currently
 own or are shared to your accounts.  
@@ -103,14 +103,14 @@ If this number is not what you expect, go back and check your
 configuration.  
   
 
-Last Telemetry Sent
+## Last Telemetry Sent
 
 This value shows the datetime of the last telemetry record sent to
 FarmBeats for this account.  
 If nothing has yet to be sent, then "--" will be displayed.  
   
 
-Connection Status
+## Connection Status
 
 This shows the current condition of the connection to your FarmBeats
 installation.  
@@ -120,7 +120,7 @@ There are 3 different statusses:
   - ![greenCheck](./images/greenCheck.png)
   - ![redX](./images/redX.png)
 
-Unlink
+## Unlink
 
 Clicking on this will terminate the link or connection from WeatherLink
 to Azure FarmBeats for your data.  
@@ -128,12 +128,12 @@ to Azure FarmBeats for your data.
 This effectively stops data from ever being sent from WeatherLink to
 Azure FarmBeats again.
 
-Exit
+## Exit
 
 Exit the page.  
   
 
-Save
+## Save
 
 Clicking on this does:  
 
@@ -142,7 +142,7 @@ Clicking on this does:
   - Save data to the database
   - Success Message
 
-### Waiting to Add
+# Waiting to Add
 
 Once you've entered data into all the fields and have successfully saved
 your data, you must then wait for the "backend servers" to process this

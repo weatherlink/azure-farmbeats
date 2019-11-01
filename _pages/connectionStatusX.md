@@ -35,7 +35,6 @@ connection (using your credentials) to your Azure FarmBeats
 installation.  
   
 At this time, it may make sense to investigate from the Azure FarmBeats
-side; to do so, please visit: [their
-documentation.](https://aka.ms/FarmBeatsdocumentation)
+side; to do so, please visit: [their documentation.](https://aka.ms/FarmBeatsdocumentation)
 
 

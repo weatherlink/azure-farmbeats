@@ -12,9 +12,12 @@ navMain:
   - title: Setup
     url: /setup
   - title: TroubleShooting Azure Farmbeats
+    url: /verify
     children:
-      - title: Verifying Data is Flowing
-        url: /flowing
+      - title: Data getting to WeatherLink?
+        url: /flowinginToWeatherLink
+      - title: Data getting to Azure FarmBeats?
+        url: /flowingInToFarmBeats
       - title: Connection Status shows as X?
         url: /connectionStatusX
       - title: Checking the Other Side

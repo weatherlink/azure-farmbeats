@@ -1,6 +1,6 @@
 ---
-title: Verify Data is Flowing
-permalink: /flowing
+title: Verify Data is Flowing into Azure FarmBeats
+permalink: /flowingIntoFarmBeats
 classes: wide
 header:
   overlay_color: "#000000"
@@ -8,16 +8,10 @@ header:
   overlay_image: /assets/vendor/weatherlink/images/landing.jpg
 ---
 
-## Verifying Data is Flowing into FarmBeats
-
-Ensure that data is flowing into WeatherLink
-
-See the section above.  
-
-Ensure that the WeatherLink side seems to be sending data
+## Verify Data is Flowing into Azure FarmBeats
 
 Go back to the Account page. Select "Azure FarmBeats" from the pulldown
-to show the FarmBeats page.  
+to show the Azure FarmBeats page.  
 It should look something like this:  
   
 ![UI with data](./images/UI_with_data.png)  
@@ -38,10 +32,6 @@ Notes:
     the status for when the page was put up. If you want updated data,
     close the page and bring it back up again.
 
-  
 
-Ensure that FarmBeats is receiving the data
-
-To know more about FarmBeats, please visit: [their
-documentation.](https://aka.ms/FarmBeatsdocumentation)
+To learn more about Azure FarmBeats, please visit: [their documentation.](https://aka.ms/FarmBeatsdocumentation)
 
