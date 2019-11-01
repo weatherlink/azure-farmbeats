@@ -18,7 +18,7 @@ navMain:
     url: /verify
     children:
       - title: Data getting to WeatherLink?
-        url: /flowinginToWeatherLink
+        url: /flowingInToWeatherLink
       - title: Data getting to Azure FarmBeats?
         url: /flowingInToFarmBeats
       - title: Connection Status shows as X?

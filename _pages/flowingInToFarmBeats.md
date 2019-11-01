@@ -1,6 +1,6 @@
 ---
 title: Verify Data is Flowing into Azure FarmBeats
-permalink: /flowingIntoFarmBeats
+permalink: /flowingInToFarmBeats
 classes: wide
 header:
   overlay_color: "#000000"
