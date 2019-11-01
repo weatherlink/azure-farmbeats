@@ -20,7 +20,7 @@ Go back to the Account page. Select "Azure FarmBeats" from the pulldown
 to show the FarmBeats page.  
 It should look something like this:  
   
-![UI with data](/images/UI_with_data.png)  
+![UI with data](./images/UI_with_data.png)  
   
 Notes:  
 

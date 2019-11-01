@@ -22,7 +22,7 @@ Wait 2 minutes. Then reconnect. The lamps on the board should go through
 the startup sequence. If they do not come on, try pressing the 2 square
 pads to activate the lamps.
 
-![Gateway Power](/images/GatewayPower.png)
+![Gateway Power](./images/GatewayPower.png)
 
 ### Make sure the battery voltage is OK.
 
@@ -57,7 +57,7 @@ connect issue, please reverify this with Tech support.
 
 ### What do the Gateway status LEDs indicate?
 
-![LEDs](/images/GatewayStatusLEDs.png)
+![LEDs](./images/GatewayStatusLEDs.png)
 
 ### How can I tell if my Gateway battery voltage is getting too low?
 

@@ -13,32 +13,18 @@ header:
 Click on the Account icon (the leftmost of these in the right side
 navigation bar).  
   
-img1
-
-![AccountIcon](/images/AccountIcon.png)  
-
-img2
-
 ![AccountIcon](./images/AccountIcon.png)  
-
-img3
-
-![AccountIcon](/azure-farmbeats/images/AccountIcon.png)  
-
-img4
-
-![AccountIcon](./azure-farmbeats/images/AccountIcon.png)  
 
   
 From there, click on the Account Integration pulldown and select "Azure
 FarmBeats".  
   
-![AccountIntegration](/images/AccountIntegration2.png)  
+![AccountIntegration](./images/AccountIntegration2.png)  
   
 This should bring up the Azure FarmBeats window. If you have yet to set
 up your connection, the window will look like this:  
   
-![UI\_without\_data](/images/UI_without_data.png)  
+![UI\_without\_data](./images/UI_without_data.png)  
   
   
 Let's go through each of the fields and the selections.
@@ -131,8 +117,8 @@ installation.
 There are 3 different statusses:  
 
   - None or "--"
-  - ![greenCheck](/images/greenCheck.png)
-  - ![redX](/images/redX.png)
+  - ![greenCheck](./images/greenCheck.png)
+  - ![redX](./images/redX.png)
 
 Unlink
 
@@ -166,5 +152,5 @@ change any data.
 Therefore, you will see the following graphic anytime you click on the
 "Azure FarmBeats" pulldown:  
   
-![AddInProgress](/images//AddInProgress.png)
+![AddInProgress](./images//AddInProgress.png)
 

@@ -12,7 +12,7 @@ header:
 
 Let us assume that your connection status shows this:  
   
-![connectionStatus](./connectionStatus.png)  
+![connectionStatus](./images/connectionStatus.png)  
   
 This shows that:
 

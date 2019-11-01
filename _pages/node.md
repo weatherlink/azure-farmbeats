@@ -12,7 +12,7 @@ header:
 
 ### What do the Node status LEDs indicate?
 
-![Node Status LEDs](/images/NodeStatusLEDs.png)
+![Node Status LEDs](./images/NodeStatusLEDs.png)
 
 ### My Node can't connect to the Gateway or mesh parent
 
@@ -39,7 +39,7 @@ touch each other when the connector is plugged in, but make sure the
 clamp in the sensor port is closing on wire, not plastic. (About 1/4
 inch? \[6.4 mm\] of exposed wire is ideal.)
 
-![RJ Adapter](/images/RjAdapter.png)
+![RJ Adapter](./images/RjAdapter.png)
 
 Note: The exception to this is the Davis Rain Collectors. These you need
 to cut the end of and use the BARE WIRE connector.
@@ -50,7 +50,7 @@ Make sure that you have the rain collector set up to use BARE WIRE
 connections you will need to cut the RJ11 connection of and use the
 wiring diagram in the phone app.
 
-![wiring](/images/wiring.png)
+![wiring](./images/wiring.png)
 
 ### What sensors can I connect to my node?
 
@@ -76,7 +76,7 @@ We can support sensors that have:
 
 ### What Frequencies does my Gateway talk to the Node?
 
-![frequencies](/images/Frequencies.png)
+![frequencies](./images/Frequencies.png)
 
 
 
