@@ -7,23 +7,21 @@ main:
     url: https://www.davisinstruments.com
 
 navMain: 
-  - title: Overview
+  - title: Azure FarmBeats Overview
     children:
       - title: Introduction
         url: /
-  - title: Getting Started
+  - title: Setup
     children:
-#      - title: API Key
-#        url: /api-key
-      - title: Authentication
+      - title: Setup
         url: /authentication
-      - title: API Response
+      - title: Verifying data is flowing
         url: /api-response
       - title: API Use Cases
         url: /api-use-cases
       - title: FAQ <i class="fas fa-star new-content-notification"></i> <b><i>New!</i></b>
         url: /faq
-  - title: Reference
+  - title: Verifying data is flowing
     children:
       - title: API Reference
         url: /api-reference
@@ -35,7 +33,7 @@ navMain:
         url: /rate-limits
       - title: Size Limits
         url: /size-limits
-  - title: Resources
+  - title: 
     children:
       - title: Tools
         url: /tools
