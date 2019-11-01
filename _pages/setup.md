@@ -13,7 +13,22 @@ header:
 Click on the Account icon (the leftmost of these in the right side
 navigation bar).  
   
+img1
+
 ![AccountIcon](/images/AccountIcon.png)  
+
+img2
+
+![AccountIcon](./images/AccountIcon.png)  
+
+img3
+
+![AccountIcon](/azure-farmbeats/images/AccountIcon.png)  
+
+img4
+
+![AccountIcon](./azure-farmbeats/images/AccountIcon.png)  
+
   
 From there, click on the Account Integration pulldown and select "Azure
 FarmBeats".  
