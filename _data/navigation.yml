@@ -8,40 +8,29 @@ main:
 
 navMain: 
   - title: Azure FarmBeats Overview
-    children:
-      - title: Introduction
-        url: /
+    url: /
   - title: Setup
+    url: /setup
+  - title: TroubleShooting Azure Farmbeats
     children:
-      - title: Setup
-        url: /authentication
-      - title: Verifying data is flowing
-        url: /api-response
-      - title: API Use Cases
-        url: /api-use-cases
-      - title: FAQ <i class="fas fa-star new-content-notification"></i> <b><i>New!</i></b>
-        url: /faq
-  - title: Verifying data is flowing
+      - title: Verifying Data is Flowing
+        url: /flowing
+      - title: What to do if Connection Status shows as X?
+        url: /connectionStatusX
+      - title: What should I look for at my FarmBeats installation?
+        url: /ms
+  - title: TroubleShooting EnviroMonitor (EM) Setup
     children:
-      - title: API Reference
-        url: /api-reference
-      - title: Data Structure Types
-        url: /data-structure-types
-      - title: Sensor Catalog
-        url: /sensor-catalog
-      - title: Rate Limits <i class="fas fa-star new-content-notification"></i> <b><i>Updated!</i></b>
-        url: /rate-limits
-      - title: Size Limits
-        url: /size-limits
-  - title: 
+      - title: Bluetooth
+        url: /bluetooth
+      - title: Cell Connection
+        url: /cell
+      - title: How the App can Help
+        url: /app
+  - title: TroubleShooting Hardware Issues
     children:
-      - title: Tools
-        url: /tools
-      - title: Support
-        url: /support
-      - title: Terms of Service
-        url: /terms-of-service
-#      - title: Release Notes
-#        url: /release-notes
-      - title: Documentation Updates
-        url: /documentation-updates
+      - title: Gateway
+        url: /gateway
+      - title: Node
+        url: /node
+
