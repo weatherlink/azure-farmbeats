@@ -1,0 +1,49 @@
+main:
+  - title: "Developer Portal"
+    url: https://weatherlink.github.io
+  - title: "WeatherLink"
+    url: https://www.weatherlink.com
+  - title: "Davis Instruments"
+    url: https://www.davisinstruments.com
+
+navMain: 
+  - title: Overview
+    children:
+      - title: Introduction
+        url: /
+  - title: Getting Started
+    children:
+#      - title: API Key
+#        url: /api-key
+      - title: Authentication
+        url: /authentication
+      - title: API Response
+        url: /api-response
+      - title: API Use Cases
+        url: /api-use-cases
+      - title: FAQ <i class="fas fa-star new-content-notification"></i> <b><i>New!</i></b>
+        url: /faq
+  - title: Reference
+    children:
+      - title: API Reference
+        url: /api-reference
+      - title: Data Structure Types
+        url: /data-structure-types
+      - title: Sensor Catalog
+        url: /sensor-catalog
+      - title: Rate Limits <i class="fas fa-star new-content-notification"></i> <b><i>Updated!</i></b>
+        url: /rate-limits
+      - title: Size Limits
+        url: /size-limits
+  - title: Resources
+    children:
+      - title: Tools
+        url: /tools
+      - title: Support
+        url: /support
+      - title: Terms of Service
+        url: /terms-of-service
+#      - title: Release Notes
+#        url: /release-notes
+      - title: Documentation Updates
+        url: /documentation-updates
