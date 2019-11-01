@@ -11,17 +11,17 @@ header:
 
 Click on the Account icon (the leftmost of these in the right side navigation bar).
 <br><br>
-<img src="./AccountIcon.png" alt="AccountIcon">
+<img src="/images/AccountIcon.png" alt="AccountIcon">
 <br><br>
 
 From there, click on the Account Integration pulldown and select "Azure FarmBeats".
 <br><br>
-<img src="./AccountIntegration2.png" alt="AccountIntegration">
+<img src="/images/AccountIntegration2.png" alt="AccountIntegration">
 <br><br>
 
 This should bring up the Azure FarmBeats window.  If you have yet to set up your connection, the window will look like this:
 <br><br>
-<img src="./UI_without_data.png" alt="UI_without_data">
+<img src="/images/UI_without_data.png" alt="UI_without_data">
 <br><br><br>
 Let's go through each of the fields and the selections.
 <ul>
@@ -80,10 +80,10 @@ Let's go through each of the fields and the selections.
 		<li>None or "--"</li>
 		Indicates that no connection has even be attempted yet.<br><br>
 
-		<li><img src="./greenCheck.png" alt="greenCheck"></li>
+		<li><img src="/images/greenCheck.png" alt="greenCheck"></li>
 		Indicates that the connection is currently up/good.<br><br>
 
-		<li><img src="./redX.png" alt="redX"></li>
+		<li><img src="/images/redX.png" alt="redX"></li>
 		Indicates that the connection is currently down/disconnected.<br><br>
 	</ul>
 
@@ -113,7 +113,7 @@ Let's go through each of the fields and the selections.
 
 		<li>Success Message</li>
 		<br><br>
-		<img src="./AddAccepted.png" alt="AddAccepted">
+		<img src="/images/AddAccepted.png" alt="AddAccepted">
 		<br><br>
 		Note that the 20 minutes is an approximate value.
 
@@ -127,7 +127,7 @@ to process this request.  <br>
 While this request is being processed, we cannot allow you to edit or change any data.  <br>
 Therefore, you will see the following graphic anytime you click on the "Azure FarmBeats" pulldown:
 <br><br>
-<img src="./AddInProgress.png" alt="AddInProgress">
+<img src="/images/AddInProgress.png" alt="AddInProgress">
 <br><br>
 
 <h2 id="dataflow">Verifying Data is Flowing</h2>
@@ -138,7 +138,7 @@ Before data can be sent to FarmBeats, it has to be received by WeatherLink.
 Here is how to verify that your data is being received.
 
 <br><br>
-<img src="./dataTab.png" alt="dataTab">
+<img src="/images/dataTab.png" alt="dataTab">
 <br><br>
 
 Above is the data tab. Let's try to verify that data is flowing for your station called YourStationName.
@@ -185,7 +185,7 @@ If all the field values in the table display as "--", then WeatherLink is config
 	It should look something like this:
 
 	<br><br>
-	<img src="./UI_with_data.png" alt="UI with data">
+	<img src="/images/UI_with_data.png" alt="UI with data">
 	<br><br>
 
 	Notes:<br>
