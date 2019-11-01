@@ -50,7 +50,7 @@ Make sure that you have the rain collector set up to use BARE WIRE
 connections you will need to cut the RJ11 connection of and use the
 wiring diagram in the phone app.
 
-![wiring](./images/wiring.png)
+![wiring](./images/Wiring.png)
 
 ### What sensors can I connect to my node?
 
