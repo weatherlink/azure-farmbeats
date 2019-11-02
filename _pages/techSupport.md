@@ -15,6 +15,6 @@ You can reach Davis Instruments Technical Support:
   - By phone: Call (510) 732-7814 | M-F 7:00am to 5:30pm PT
   - By email: <support@davisinstruments.com>
   - By LiveChat. You can access this from our Website and looking for
-    the ![LiveChatIcon](./images/LiveChatIcon_small.png) in the lower right
+    the ![LiveChatIcon](./images/LiveChatIcon_Small.png) in the lower right
     hand area.
 
