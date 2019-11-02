@@ -13,7 +13,7 @@ header:
 Before data can be sent to FarmBeats, it has to be received by
 WeatherLink. Here is how to verify that your data is being received.  
   
-![dataTab](./images/dataTab.png)  
+![dataTab](./images/DataTab.png)  
   
 Above is the data tab. Let's try to verify that data is flowing for your
 station called YourStationName.
