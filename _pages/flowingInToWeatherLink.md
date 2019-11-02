@@ -6,9 +6,9 @@ header:
   overlay_color: "#000000"
   overlay_filter: "0.0"
   overlay_image: /assets/vendor/weatherlink/images/landing.jpg
----
+--
 
-### Verify Data is Flowing into WeatherLink
+## Verify Data is Flowing into WeatherLink
 
 Before data can be sent to FarmBeats, it has to be received by
 WeatherLink. Here is how to verify that your data is being received.  

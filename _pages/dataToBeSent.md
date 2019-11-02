@@ -22,7 +22,7 @@ Shared stations.
   
 ![Stations](./images/Stations.png)
 
-## What does the data look like?
+### What does the data look like?
 
 Although this is not meant to be a technical document, it is sometimes useful to get a feel for data.  Below is an actual telemetry record that has been sent to Azure FarmBeats.  It is a text record in JSON format.
 
