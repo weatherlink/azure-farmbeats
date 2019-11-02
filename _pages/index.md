@@ -8,13 +8,6 @@ header:
   overlay_image: /assets/vendor/weatherlink/images/landing.jpg
 ---
 
-WeatherLink now supports sending data to an Azure FarmBeats
-Installation. WeatherLink:
-
-  - supports data entry of your Azure FarmBeats credentials information
-  - sends telemetry data for your systems to your Azure FarmBeats
-    installation
-
 WeatherLink now supports linking a user with their Azure FarmBeats installation. A user can enter FarmBeats credentials and link their account to Azure FarmBeats. After this is done, all EM systems accessible in their account will be setup in Azure FarmBeats and telemetry data from these EM systems will be sent in almost real-time.
 
 
