@@ -26,7 +26,7 @@ Shared stations.
 
 Although this is not meant to be a technical document, it is sometimes useful to get a feel for data.  Below is an actual telemetry record that has been sent to Azure FarmBeats.  It is a text record in JSON format.
 
-'''
+```
 
 {
 	"deviceid": "333da51d-9834-4c2a-9b2e-08ff523cde8e",
@@ -74,5 +74,5 @@ Although this is not meant to be a technical document, it is sometimes useful to
 	}]
 }
 
-'''
+```
 
