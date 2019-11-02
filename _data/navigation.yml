@@ -23,7 +23,7 @@ navMain:
         url: /flowingInToFarmBeats
       - title: Connection Status shows as X?
         url: /connectionStatusX
-      - title: Checking the Other Side
+      - title: Checking Azure FarmBeats Side
         url: /ms
   - title: TroubleShooting EnviroMonitor (EM) Setup
     children:
@@ -39,4 +39,6 @@ navMain:
         url: /gateway
       - title: Node
         url: /node
+  - title: I Need Help
+    url: /techSupport
 
