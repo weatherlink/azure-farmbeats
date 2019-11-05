@@ -16,5 +16,5 @@ You can reach Davis Instruments Technical Support:
   - By email: <support@davisinstruments.com>
   - By LiveChat. You can access this from our Website; look for
     the ![LiveChatIcon](./images/LiveChatIcon_Small.png) in the lower right
-    hand area of the ![Davis Instruments Website](https://davisinstruments.com) website.
+    hand area of the [Davis Instruments Website](https://davisinstruments.com) website.
 
