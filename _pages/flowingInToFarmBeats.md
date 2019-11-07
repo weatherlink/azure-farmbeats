@@ -33,5 +33,5 @@ Notes:
     close the page and bring it back up again.
 
 
-To learn more about Azure FarmBeats, please visit: [their documentation.](https://aka.ms/FarmBeatsdocumentation)
+To learn more about Azure FarmBeats, please visit:  please visit: [Azure FarmBeats Documentation](https://aka.ms/FarmBeatsdocumentation).
 
