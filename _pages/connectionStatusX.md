@@ -35,7 +35,5 @@ connection (using your credentials) to your Azure FarmBeats installation.
 At this time, it may make sense to investigate from the Azure FarmBeats
 side. The "top" of their general documentation can found found at: [their documentation.](https://aka.ms/FarmBeatsdocumentation).
 
-However, this link will show you information on how to generate the credentials you need to enter into WeatherLink to make the WeatherLink-FarmBeats connection.
-That documentation can be found: [here](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner).
-
+However, [this](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner) will show you information on how to generate the credentials you need to enter into WeatherLink to make the WeatherLink-FarmBeats connection.
 

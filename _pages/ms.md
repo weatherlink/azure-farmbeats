@@ -11,5 +11,5 @@ header:
 To investigate more from the Azure FarmBeats side; to do so, please visit: [Azure FarmBeats Documentation](https://aka.ms/FarmBeatsdocumentation).
 
 For specific information on how to generate the credentials you need to enter into WeatherLink to make the WeatherLink-FarmBeats connection,
-please visit: [here](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner).
+please visit: [this page](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner).
 
