@@ -29,6 +29,8 @@ up your connection, the window will look like this:
   
 Let's go through each of the fields and the selections.
 
+**NOTE**  It is important that (if copying and pasting this data), that you **NOT** inadvertenly add any trailing whitespace (e.g., space) characters!!
+
 ### Documentation
 
 That would be this document that you are currently reading.  
@@ -44,7 +46,6 @@ like "Dave's Farm".
 
 This is a field that should be provided from your Azure FarmBeats
 account. It is a custom URL for your account.  
-  
 
 ### Tenant Id
 
