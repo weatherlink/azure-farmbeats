@@ -29,7 +29,7 @@ up your connection, the window will look like this:
   
 Let's go through each of the fields and the selections.
 
-**NOTE**  It is important that (if copying and pasting this data), that you **NOT** inadvertenly add any trailing whitespace (e.g., space) characters!!
+**NOTE**:  It is important that (if copying and pasting this data), that you **NOT** inadvertenly add any trailing whitespace (e.g., space) characters!!
 
 ### Documentation
 
