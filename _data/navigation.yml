@@ -25,6 +25,8 @@ navMain:
         url: /connectionStatusX
       - title: Checking Azure FarmBeats Side
         url: /ms
+      - title: What Not to Do
+        url: /whatNotToDo
   - title: TroubleShooting EnviroMonitor (EM) Setup
     children:
       - title: Bluetooth
