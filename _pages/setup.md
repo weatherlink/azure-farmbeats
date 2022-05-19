@@ -1,5 +1,5 @@
 ---
-title: Setup
+itle: Setup
 permalink: /setup
 classes: wide
 header:
@@ -16,10 +16,21 @@ navigation bar).
 ![AccountIcon](./images/AccountIcon.png)  
 
   
-From there, click on the Account Integration pulldown and select "Azure
-FarmBeats".  
+From there, click on the Account Integrations link on the right-hand side.
   
 ![AccountIntegration](./images/AccountIntegration2.png)  
+
+From there, you should see this (to add a new FarmBeats integration):
+
+![CreateAccountIntegration](./images/Integrations_empty_1.png)
+
+or
+
+![CreateAccountIntegration](./images/Integrations_empty_2.png)
+  
+or this (to edit an existing FarmBeats integration):
+
+![EditAccountIntegration](./images/EditAccountIntegration.png)
   
 This should bring up the Azure FarmBeats window. If you have yet to set
 up your connection, the window will look like this:  
@@ -42,32 +53,13 @@ This is a free-form field to describe your setup. It could be something
 like "Dave's Farm".  
   
 
-### API Endpoint
-
-This is a field that should be provided from your Azure FarmBeats
-account. It is a custom URL for your account.  
-
 ### Tenant Id
 
 This is a field that should be provided from your Azure FarmBeats
 account. This is basically a "group ID".  
   
 
-### Client Id
-
-This is a field that should be provided from your Azure FarmBeats
-account. This is basically your "account Id".  
-  
-
-### Client Secret
-
-This is a field that should be provided from your Azure FarmBeats
-account. This is considered to be the confidential "account password".  
-It is normally shown as asterisks ("\*\*\*"). The eye icon will
-show/hide the actual value.  
-  
-
-### EventHub aka EventHub Connection String
+### ConsentLink
 
 This is a field that should be provided from your Azure FarmBeats
 account.  

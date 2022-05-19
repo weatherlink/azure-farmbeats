@@ -33,7 +33,5 @@ connection with the current data.  If you get an error, that means that the webs
 connection (using your credentials) to your Azure FarmBeats installation.  
   
 At this time, it may make sense to investigate from the Azure FarmBeats
-side. The "top" of their general documentation can found found at: [their documentation.](https://aka.ms/FarmBeatsdocumentation).
-
-However, [this](https://docs.microsoft.com/en-us/azure/industry/agriculture/get-sensor-data-from-sensor-partner) will show you information on how to generate the credentials you need to enter into WeatherLink to make the WeatherLink-FarmBeats connection.
+side. The "top" of their general documentation can found found at: [their documentation.](https://github.com/MicrosoftDocs/Azure-FarmBeats/tree/main/documentation).
 

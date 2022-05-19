@@ -44,4 +44,6 @@ Let's assume:
 
 ## How do I clean/purge the Azure Microsoft Data?
 
-To learn more about Azure FarmBeats, please visit:  please visit: [Azure FarmBeats Documentation](https://aka.ms/FarmBeatsdocumentation).
+ Largely, you can't.
+
+To learn more about Azure FarmBeats, please visit:  please visit: [Azure FarmBeats Documentation](https://github.com/MicrosoftDocs/Azure-FarmBeats/tree/main/documentation).

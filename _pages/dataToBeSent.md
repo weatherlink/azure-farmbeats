@@ -29,50 +29,25 @@ Although this is not meant to be a technical document, it is sometimes useful to
 ```
 
 {
-	"deviceid": "333da51d-9834-4c2a-9b2e-08ff523cde8e",
-	"timestamp": "2019-11-01T23:50:00Z",
-	"version": "1",
-	"sensors": [{
-		"id": "33366c2a-3820-434a-9168-63394466ebb4",
-		"sensordata": [{
-			"moist_soil_4in": 31.9542,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"moist_soil_8in": 42.8048,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"moist_soil_12in": 64.4298,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"moist_soil_16in": 73.3719,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"moist_soil_24in": 78.9054,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"moist_soil_32in": 79.1097,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_4in": 62.6,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_8in": 61.88,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_12in": 63.32,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_16in": 64.76,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_24in": 62.6,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}, {
-			"temp_32in": 63.32,
-			"timestamp": "2019-11-01T23:50:00Z"
-		}]
-	}]
+	"temp": 70.7,
+	"rainfall": 0,
+	"wind_speed_avg": 0,
+	"rainfall_rate_hi": null,
+	"wind_speed_hi": 0,
+	"wind_dir_of_hi": null,
+	"evapotranspiration": 0,
+	"solar_rad_hi": 0,
+	"wind_dir_of_prevail": null,
+	"bar": 29.986,
+	"temperature_lo": 70.6,
+	"humidity": 57,
+	"wind_num_samples": 117,
+	"temperature_hi": 70.7,
+	"archive_interval": 300,
+	"timestamp": "2022-05-19T18:10:00Z",
+	"solar_rad_avg": 0
 }
+
 
 ```
 
